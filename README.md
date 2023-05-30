@@ -2,9 +2,7 @@
 
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![C7][c7-shield]][c7-url]
 [![C8][c8-shield]][c8-url]
@@ -153,19 +151,8 @@ public void correlateMessage(CorrelateMessageCommand message) {
 ## Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any
 contributions you make are **greatly appreciated**.
-To collect, prioritise and work on issues in a collaborative fashion we have established some [contribution guidelines](https://miranum.com/docs/components/contributing) as well as a [GitHub project](https://github.com/orgs/FlowSquad/projects/9).
-Please make sure to read through these guidelines before starting with your contribution.
-
-### PRs for every change
-All changes have to be done in a separate Branch or Fork (if you are an external contributor). As soon as the changes are 
-done please open a PR. A GitHub Action runs with every commit to a Branch and checks if the documentation can be built.
-If you create a new branch make sure to name it according to what it does (e.g. feat/xyz or fix/xyz). Please use semantic 
-commit messages as described in [here](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716).
-
-### Code reviews
-We are using simple emoji's to help convey intention and added meaning in code review comments. A little bit of emoji can
-go a long way when it comes to code reviews and make giving and receiving code review a little bit more enjoyable.
-We are following this [guide by erikthedeveloper](https://github.com/erikthedeveloper/code-review-emoji-guide).
+To collect, prioritise and work on issues in a collaborative fashion we have established some [contribution guidelines](https://miranum.com/docs/components/contributing) as well as a [GitHub project](https://github.com/orgs/Miragon/projects/9).
+Please make sure to read through these guidelines before starting with your contribution. Since this is a fork which lives in the Community Hub we would kindly ask you to contribute to the [main project](https://github.com/Miragon/miranum-connect).  
 
 ## Code of Conduct
 This project adheres to the [Contributor Covenant Code of Conduct](./CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
@@ -181,14 +168,8 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 [contributors-shield]: https://img.shields.io/github/contributors/FlowSquad/miranum-connect.svg?style=for-the-badge
 [contributors-url]: https://github.com/FlowSquad/miranum-connect/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/FlowSquad/miragon-connect.svg?style=for-the-badge
-[forks-url]: https://github.com/FlowSquad/miranum-connect/network/members
-
 [stars-shield]: https://img.shields.io/github/stars/FlowSquad/miragon-connect.svg?style=for-the-badge
 [stars-url]: https://github.com/FlowSquad/miranum-connect/stargazers
-
-[issues-shield]: https://img.shields.io/github/issues/FlowSquad/miranum-connect.svg?style=for-the-badge
-[issues-url]: https://github.com/FlowSquad/miranum-connect/issues
 
 [license-shield]: https://img.shields.io/github/license/FlowSquad/miranum-connect.svg?style=for-the-badge
 [license-url]: https://github.com/FlowSquad/miranum-connect/blob/main/LICENSE
