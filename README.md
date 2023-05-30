@@ -2,7 +2,6 @@
 
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
 [![C7][c7-shield]][c7-url]
 [![C8][c8-shield]][c8-url]
@@ -167,9 +166,6 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/FlowSquad/miranum-connect.svg?style=for-the-badge
 [contributors-url]: https://github.com/FlowSquad/miranum-connect/graphs/contributors
-
-[stars-shield]: https://img.shields.io/github/stars/FlowSquad/miragon-connect.svg?style=for-the-badge
-[stars-url]: https://github.com/FlowSquad/miranum-connect/stargazers
 
 [license-shield]: https://img.shields.io/github/license/FlowSquad/miranum-connect.svg?style=for-the-badge
 [license-url]: https://github.com/FlowSquad/miranum-connect/blob/main/LICENSE
